@@ -10,14 +10,22 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
 gem 'bootstrap-sass'
 gem 'thin'
+gem 'rails-backbone'
+
 group :development do
   gem 'better_errors'
   gem 'binding_of_caller', :platforms=>[:mri_19, :mri_20, :rbx]
   gem 'rails_layout'
 end
+
 group :development, :test do
   gem 'rspec-rails'
+  gem 'pry-rails'
+  gem 'pry-debugger'
+  gem 'pry-stack_explorer'
+  gem 'pry-remote', :git => "git@github.com:Mon-Ouie/pry-remote.git"
 end
+
 group :test do
   gem 'database_cleaner', '1.0.1'
   gem 'email_spec'

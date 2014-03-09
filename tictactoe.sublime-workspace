@@ -1,0 +1,1622 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"each",
+				"each_with_index"
+			],
+			[
+				"min",
+				"min_score_index"
+			],
+			[
+				"max",
+				"max_score_index"
+			],
+			[
+				"pla",
+				"player_turn"
+			],
+			[
+				"avail",
+				"available_moves"
+			],
+			[
+				"P",
+				"PivotIndex"
+			],
+			[
+				"privacy_hide",
+				"privacy_hide_profile_from_public"
+			],
+			[
+				"facebook",
+				"facebook_disconnect"
+			],
+			[
+				"text",
+				"text_field_comopletion"
+			],
+			[
+				"face",
+				"facebook-disconnect"
+			],
+			[
+				"fac",
+				"facebook"
+			],
+			[
+				"Ext",
+				"ExternalUserAccount"
+			],
+			[
+				"remo",
+				"removeClass"
+			],
+			[
+				"thread",
+				"thread_list"
+			],
+			[
+				"mess",
+				"message"
+			],
+			[
+				"u",
+				"updatePeer"
+			],
+			[
+				"report",
+				"ReportAbuse"
+			],
+			[
+				"add",
+				"addOne"
+			],
+			[
+				"reporte",
+				"reported_member_user_id"
+			],
+			[
+				"reported",
+				"reported_id"
+			],
+			[
+				"reported_",
+				"reported_member_user_id"
+			],
+			[
+				"close",
+				"closeModalHandler"
+			],
+			[
+				"load",
+				"load_thread"
+			],
+			[
+				"load_more",
+				"load_more_messages"
+			],
+			[
+				"as_more",
+				"as_more_threads"
+			],
+			[
+				"i18",
+				"i18n_inbox_load_more"
+			],
+			[
+				"user",
+				"user_list"
+			],
+			[
+				"ex",
+				"exclude_user_ids"
+			],
+			[
+				"initial",
+				"initial_start_date"
+			],
+			[
+				"curr",
+				"current_thread"
+			],
+			[
+				"empty_",
+				"empty_thread_list"
+			],
+			[
+				"displayed",
+				"displayed_user_id"
+			],
+			[
+				"displ",
+				"displayed_user_id"
+			],
+			[
+				"thre",
+				"thread_info"
+			],
+			[
+				"curre",
+				"current_user"
+			],
+			[
+				"current",
+				"current_user"
+			],
+			[
+				"curren",
+				"current_user"
+			],
+			[
+				"exclu",
+				"exclude_ids"
+			],
+			[
+				"MAX",
+				"MAX_MESSAGE"
+			],
+			[
+				"exc",
+				"exclude_ids"
+			],
+			[
+				"Thre",
+				"thread_list"
+			],
+			[
+				"cur",
+				"current_loaded_threads"
+			],
+			[
+				"to_user",
+				"to_user_id"
+			],
+			[
+				"from",
+				"from_user_id"
+			],
+			[
+				"legacy",
+				"legacy_user_connection"
+			],
+			[
+				"csv",
+				"csv_name"
+			],
+			[
+				"unique",
+				"unique_surfers"
+			],
+			[
+				"count",
+				"count_by_rating"
+			],
+			[
+				"reference",
+				"reference_list"
+			],
+			[
+				"to_",
+				"to_rails_user"
+			],
+			[
+				"from_",
+				"from_rails_user"
+			],
+			[
+				"User",
+				"UserConnection"
+			],
+			[
+				"refe",
+				"references_given"
+			],
+			[
+				"from_u",
+				"from_user_id"
+			],
+			[
+				"references_",
+				"references_received"
+			],
+			[
+				"to",
+				"to_sym"
+			],
+			[
+				"Has",
+				"HasEncodedId"
+			],
+			[
+				"group",
+				"group_ids"
+			],
+			[
+				"member_",
+				"member_group_id"
+			],
+			[
+				"acti",
+				"action_link"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 118,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/game_controller.rb",
+			"settings":
+			{
+				"buffer_size": 267,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/javascripts/backbone/tictactoe.js",
+			"settings":
+			{
+				"buffer_size": 1060,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/stylesheets/game.css.scss",
+			"settings":
+			{
+				"buffer_size": 807,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 347.0,
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"git:di",
+				"Git: Diff Current File"
+			],
+			[
+				"git ",
+				"Git: Blame"
+			],
+			[
+				"git",
+				"Git: Blame"
+			],
+			[
+				"git check",
+				"Git: Checkout Current File"
+			],
+			[
+				"git che",
+				"Git: Checkout Current File"
+			],
+			[
+				"git: check",
+				"Git: Checkout Current File"
+			],
+			[
+				"git: log",
+				"Git: Log Current File"
+			],
+			[
+				"git: di",
+				"Git: Diff Current File"
+			],
+			[
+				"diff",
+				"Git: Diff All"
+			],
+			[
+				"git: diff",
+				"Git: Diff Current File"
+			],
+			[
+				"git: che",
+				"Git: Checkout Current File"
+			],
+			[
+				"git:",
+				"Git: Blame"
+			],
+			[
+				"pacak",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"paca",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"view.settings().get('color_scheme')",
+			"view.settings()",
+			"view.settings().get('color_scheme')",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/hectormonserrate/coding_exercises/tictactoe/tictactoe/lib/board.rb",
+		"/Users/hectormonserrate/coding_exercises/tictactoe/tictactoe/lib/minimax.rb",
+		"/Users/hectormonserrate/coding_exercises/tictactoe/tictactoe/app/assets/javascripts/application.js",
+		"/Users/hectormonserrate/coding_exercises/tictactoe/tictactoe/app/views/game/show.html.erb",
+		"/Users/hectormonserrate/coding_exercises/tictactoe/tictactoe/spec/libraries/minimax_spec.rb",
+		"/Users/hectormonserrate/coding_exercises/tictactoe/tictactoe/spec/libraries/board_spec.rb",
+		"/Users/hectormonserrate/coding_exercises/tictactoe/tictactoe/spec/spec_helper.rb",
+		"/Users/hectormonserrate/coding_exercises/tictactoe/tictactoe/app/controllers/game_controller.rb",
+		"/Users/hectormonserrate/coding_exercises/tictactoe/tictactoe/config/application.rb",
+		"/Users/hectormonserrate/coding_exercises/tictactoe/tictactoe/Gemfile",
+		"/Users/hectormonserrate/coding_exercises/tictactoe/tictactoe/app/views/layouts/application.html.erb",
+		"/Users/hectormonserrate/coding_exercises/tictactoe/tictactoe/app/assets/stylesheets/game.css.scss",
+		"/Users/hectormonserrate/coding_exercises/tictactoe/tictactoe/app/assets/javascripts/backbone/tictactoe.js",
+		"/Users/hectormonserrate/coding_exercises/tictactoe/tictactoe/app/assets/stylesheets/application.css.scss",
+		"/Users/hectormonserrate/coding_exercises/gumroad/pivot_index.rb",
+		"/Users/hectormonserrate/coding_exercises/gumroad/pivot_index_spec.rb",
+		"/Users/hectormonserrate/coding_exercises/tictactoe/tictactoe/app/views/layouts/show.html.erb",
+		"/Users/hectormonserrate/coding_exercises/tictactoe/tictactoe/config/routes.rb",
+		"/Users/hectormonserrate/coding_exercises/gumroad/pivotindex.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/app/models/payment/stripe.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/config/sunspot.yml",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/config/deploy.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/config/environment.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/Gemfile",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/lib/score/tool.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/spec/spec_helper.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/lib/search/user/last_seen_score.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/app/v/views/dashboard/index.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/lib/models/geo_points.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/app/models/geolocation.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/lib/geolocations/classic.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/app/controllers/account_controller.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/app/controllers/trips_controller.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/app/assets/javascripts/old_features/upload_couch_photo.js",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/app/assets/javascripts/old_features/user_images_picker.js",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/app/controllers/users_controller.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/coverage/rcov/lib-cs_env-environment_rb.html",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/app/models/user.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/lib/search/user/decorators/hidden_users_decorator.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/lib/geo/accessors.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/lib/storage/transactions.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/lib/cs/db.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/app/controllers/verifications_controller.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/app/models/cs/note.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/script/sunspot/reindexer.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/app/controllers/dashboard_controller.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/app/controllers/search_controller.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/lib/flag_api/models/entity_flag.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/lib/search/user/decorators/base.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/lib/search/user/factory.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/app/models/cs/city_couch_request.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/app/models/cs/user_connection.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/app/controllers/admin/users_controller.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/app/v/views/admin/users/show.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/app/models/email_address_datum.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/app/models/user_email_address.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/app/models/cs/couch_request.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/lib/search/user/decorators/spacial_decorator.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/lib/search/user/decorators/ocr_decorator.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/app/models/cs/city.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/lib/cs/has_state.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/lib/user/host_burn_score.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/lib/user/host_score.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/lib/cs/active_record/enumerated_column.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/config/routes.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/lib/comment_api/search_indexer.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/lib/solr/search_indexer.rb",
+		"/Users/hectormonserrate/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/app/controllers/inbox_controller.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/lib/legacy_message_api/physical_store.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/lib/legacy_message_api/user.rb",
+		"/Users/hectormonserrate/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/app/controllers/events_controller.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/config/i18n_context.yml",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/config/locales/en_US.yml",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/app/controllers/admin/user_admins_controller.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/app/models/cs/user.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/spec/models/event_spec.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/lib/score/untitled",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/lib/user/user_score.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/app/models/cs/country.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/app/models/concerns/user/events_mixin.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/app/models/event_attendee.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/app/models/cs/group_member.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/app/models/cs/group.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/lib/translation/beautifier.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/app/models/cs/db_global_id.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/lib/legacy_message_api/physical_store/message_body.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/app/assets/javascripts/pages/inbox.js",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/app/controllers/kohana_redirect_controller.rb",
+		"/Users/hectormonserrate/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/hectormonserrate/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/Capfile",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/config/locales/javascript.yml",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/app/assets/javascripts/features/facebook.js.erb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/app/models/concerns/user/facebook_integration.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/app/v/views/trips/step_base.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/app/assets/javascripts/old_features/event_form.js",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/lib/legacy_api/couch_request.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/app/assets/javascripts/features/dashboard/event.js",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/app/assets/javascripts/old_features/thread_sets.js",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/app/assets/javascripts/old_features/help.js",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/config/i18n-js.yml",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/app/assets/javascripts/old_features/event_message.js",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/app/assets/javascripts/pages/dashboard.js",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/app/models/external_connection.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/lib/synchronizer/field_synchronizers/user_geo_synchronizer.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/lib/synchronizer/field_synchronizers/direct_synchronizer.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/lib/synchronizer/updaters/update_set_geo.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/app/models/cs/external_user_account.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/app/assets/javascripts/old_features/require_logged_in.js",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/app/controllers/api/v1/couchrequests_controller.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/app/models/legacy_geolocation_mapping.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/app/models/analysis/time_series_datum.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/lib/analysis/update/revenue_updater.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/lib/analysis/update/time_series_datum_updater.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/lib/analysis/update/couchrequest_senders_updater.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/app/controllers/admin/analytics/year_over_year_controller.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/app/controllers/admin/analytics/timeseries_controller.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/lib/analysis/update/engaged_couchrequest_surfers_updater.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/lib/analysis/update/engaged_hosts_updater.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/lib/analysis/update/message_senders_updater.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/lib/analysis/update/messages_sent_updater.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/script/analysis/update/update_daily_analytics.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/lib/analysis/update/engaged_surfers_updater.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/lib/analysis/update/engaged_couchrequest_hosts_updater.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/lib/legacy_message_api/physical_store/db_shard.rb",
+		"/Users/hectormonserrate/csrails/rails_site/bazaar/lib/analysis/logs/web/web_log_iteration_listener.rb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"*.*",
+			"*.js",
+			"*.*",
+			"*.js",
+			"*.*",
+			"",
+			"/Users/hectormonserrate/csrails/rails_site/bazaar/app/controllers/admin",
+			"*.*",
+			"*.js",
+			"*.*",
+			"/Users/hectormonserrate/csrails/rails_site/bazaar/spec",
+			"*.*",
+			"/Users/hectormonserrate/csrails/rails_site/bazaar/app/v",
+			"*.*",
+			"/Users/hectormonserrate/csrails/rails_site/bazaar/app/v/views/api",
+			"*.*",
+			"/Users/hectormonserrate/csrails/rails_site/bazaar/app/assets/stylesheets/components",
+			"/Users/hectormonserrate/csrails/rails_site/bazaar/app/assets/stylesheets/components/dashboard",
+			"/Users/hectormonserrate/csrails/rails_site/bazaar/",
+			"/Users/hectormonserrate/csrails/rails_site/bazaar/lib/analysis",
+			"/Users/hectormonserrate/csrails/rails_site/bazaar"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"depth",
+			"Y_",
+			"col-md-1",
+			".col-md-1",
+			"md-4",
+			"Sweeper",
+			"def live_location_description",
+			"live_city",
+			"live_geolocation.city_name",
+			"profile.city",
+			"search_oneoff",
+			"search_",
+			"profile_section",
+			"def nearest_geolocation_with_classic_counterpart",
+			"almost there",
+			"cropped_image_url",
+			"filepicker",
+			"RSolr.connect",
+			"database_connections_for",
+			"def do_transactions",
+			"def if_has_legacy_cs_database",
+			"if_has_legacy_cs_database",
+			"code",
+			"def set_liv",
+			"Bongaree",
+			"def effective_distance_to",
+			"def closest_entities_to",
+			"def nearest_geolocation_with_classic_counterpart",
+			"for_email_address",
+			"normalize_email_address",
+			"validate",
+			"CityCouchRequest",
+			"default_scope",
+			"user_display",
+			"delete",
+			"last_seen",
+			"hostscore",
+			"legacy_left_user_connections",
+			"filter_stealthed_for_user",
+			"searchable",
+			"@user +",
+			"messages_with_user",
+			"def thread_info",
+			"thread_info",
+			"EnumeratedColumn",
+			"(user.",
+			"->(user)",
+			" user.",
+			"user.",
+			"def future_joined_events",
+			"future_joined_events\ndef future_joined_events",
+			"future_joined_events",
+			"def events_participating_in",
+			"load_current_user_events",
+			"last_seen",
+			"image",
+			"Cs::User",
+			"super+p",
+			"def set_",
+			"live_place",
+			"javascript",
+			"conversation_create_user_is_spamming_error",
+			"i18n",
+			"flash",
+			"facebook-signup",
+			"def find_by_facebook_uid_with_sync",
+			"i18n_dashboard_fb_already_connected",
+			"find_by_facebook_uid_with_sync",
+			"facebook-signup",
+			".valid",
+			"stealth",
+			"Classic.from_geolocation",
+			"Classic::from_geolocation",
+			"def set_live_address",
+			"default_time_to_update",
+			"database_for_sliver",
+			"lines processed",
+			"since last report",
+			"UserActivityListener",
+			"UserActivity",
+			"UserActivityUpdater",
+			"no_change_user_names_by_hour",
+			"modulus",
+			"Analysis::UserActivity",
+			"UserActivity",
+			"symbol_to_int_for_datum_type",
+			"definition",
+			":definition =>",
+			"def load_messages",
+			"def messages_between",
+			"messages_between",
+			"def messages_with_user",
+			"subscribe_to",
+			"def primary_action_button",
+			"def options",
+			"def a_button",
+			"def action_button",
+			"\n\ndef a_button",
+			"def a_button",
+			"def primary_action_button",
+			"@peer_id",
+			"allow_new_message",
+			"checkAllowToWrite",
+			"respond",
+			"show_nux_header",
+			"nux\nnux",
+			"update:",
+			"function send_message",
+			".meta",
+			"addAll",
+			"change_address_modal",
+			"flash",
+			"add",
+			"'on'",
+			"on",
+			"CS.Thread.ThreadCollection",
+			"collection",
+			"old_features",
+			"old_features/show",
+			"event_flag",
+			"event_flag.js",
+			"event_show_container",
+			"hide_by_flags!",
+			"hidden_by_flags?",
+			"update_or_create_flag",
+			"Widgets::Global::Header",
+			"Widgets::Global::Header ",
+			"i18n_navbar_place_page"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"level",
+			"O_",
+			"board_col",
+			"",
+			"md-1",
+			"(@user.",
+			" ->",
+			" @user.",
+			"@user.",
+			":active => true, :definition =>",
+			"@peer.id",
+			"peer_id",
+			"peer",
+			"more_messages_btn().",
+			"more_threads_btn().",
+			"more_messages_btn",
+			"more_threads_btn",
+			"this.$more_threads_btn.",
+			"this.$more_messages_btn.",
+			"this.$more_messages_btn",
+			"load_more_threads_button",
+			"load_more_thread_button",
+			"deactivate_load_more_buttons",
+			"activate_load_more_buttons",
+			"merged_hashes",
+			"@reference.",
+			"@reference_from.",
+			"@reference"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "config/routes.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 118,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								113,
+								113
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close"
+							],
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/controllers/game_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 267,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								234,
+								234
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close"
+							],
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/assets/javascripts/backbone/tictactoe.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1060,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								905,
+								905
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 86.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/assets/stylesheets/game.css.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 807,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								388,
+								388
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close"
+							],
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"project": "tictactoe.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"appli",
+				"config/application.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"payment/s",
+				"app/models/payment/stripe.rb"
+			],
+			[
+				"migra",
+				"db/migrate/20121015153500_create_ongoing_user_migration_table.rb"
+			],
+			[
+				"spec_helpe",
+				"spec/spec_helper.rb"
+			],
+			[
+				"gemfi",
+				"Gemfile"
+			],
+			[
+				"geopoints",
+				"lib/models/geo_points.rb"
+			],
+			[
+				"dashboard/in",
+				"app/v/views/dashboard/index.rb"
+			],
+			[
+				"geoloca",
+				"app/models/geolocation.rb"
+			],
+			[
+				"geolocation/cl",
+				"lib/geolocations/classic.rb"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"users_con",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"accou",
+				"app/controllers/account_controller.rb"
+			],
+			[
+				"trip_cont",
+				"app/controllers/trips_controller.rb"
+			],
+			[
+				"verifications_con",
+				"app/controllers/verifications_controller.rb"
+			],
+			[
+				"classic",
+				"lib/geolocations/classic.rb"
+			],
+			[
+				"entity_fla",
+				"lib/flag_api/models/entity_flag.rb"
+			],
+			[
+				"search",
+				"app/controllers/search_controller.rb"
+			],
+			[
+				"dashbo",
+				"app/controllers/dashboard_controller.rb"
+			],
+			[
+				"reind",
+				"script/sunspot/reindexer.rb"
+			],
+			[
+				"cs/note",
+				"app/models/cs/note.rb"
+			],
+			[
+				"decorator/bas",
+				"lib/search/user/decorators/base.rb"
+			],
+			[
+				"search_con",
+				"app/controllers/search_controller.rb"
+			],
+			[
+				"factory",
+				"lib/search/user/factory.rb"
+			],
+			[
+				"user_email_address",
+				"app/models/user_email_address.rb"
+			],
+			[
+				"emailaddressdatum",
+				"app/models/email_address_datum.rb"
+			],
+			[
+				"users/sho",
+				"app/v/views/admin/users/show.rb"
+			],
+			[
+				"admin/user",
+				"app/controllers/admin/users_controller.rb"
+			],
+			[
+				"cs/user",
+				"app/models/cs/user_connection.rb"
+			],
+			[
+				"cs/city",
+				"app/models/cs/city_couch_request.rb"
+			],
+			[
+				"cs/couch",
+				"app/models/cs/couch_request.rb"
+			],
+			[
+				"dashboar",
+				"app/controllers/dashboard_controller.rb"
+			],
+			[
+				"hasstate",
+				"lib/cs/has_state.rb"
+			],
+			[
+				"city",
+				"app/models/cs/city.rb"
+			],
+			[
+				"city_couch",
+				"app/models/cs/city_couch_request.rb"
+			],
+			[
+				"spaci",
+				"lib/search/user/decorators/spacial_decorator.rb"
+			],
+			[
+				"indexer",
+				"script/sunspot/reindexer.rb"
+			],
+			[
+				"host_burn",
+				"lib/user/host_burn_score.rb"
+			],
+			[
+				"couch_re",
+				"app/models/cs/couch_request.rb"
+			],
+			[
+				"enumera",
+				"lib/cs/active_record/enumerated_column.rb"
+			],
+			[
+				"tool",
+				"lib/score/tool.rb"
+			],
+			[
+				"user_conn",
+				"app/models/cs/user_connection.rb"
+			],
+			[
+				"tool.",
+				"lib/score/tool.rb"
+			],
+			[
+				"host",
+				"lib/user/host_score.rb"
+			],
+			[
+				"cs/user_",
+				"app/models/cs/user_connection.rb"
+			],
+			[
+				"cs/couch_re",
+				"app/models/cs/couch_request.rb"
+			],
+			[
+				"dashboard",
+				"app/controllers/dashboard_controller.rb"
+			],
+			[
+				"reinde",
+				"script/sunspot/reindexer.rb"
+			],
+			[
+				"host_s",
+				"lib/user/host_score.rb"
+			],
+			[
+				"admin/user/sho",
+				"app/v/views/admin/users/show.rb"
+			],
+			[
+				"account_",
+				"app/controllers/account_controller.rb"
+			],
+			[
+				"legacy_message_api/us",
+				"lib/legacy_message_api/user.rb"
+			],
+			[
+				"legacymessage_api",
+				"lib/legacy_message_api/physical_store.rb"
+			],
+			[
+				"physi",
+				"lib/legacy_message_api/physical_store.rb"
+			],
+			[
+				"inbox_co",
+				"app/controllers/inbox_controller.rb"
+			],
+			[
+				"user/",
+				"lib/user/host_score.rb"
+			],
+			[
+				"events_con",
+				"app/controllers/events_controller.rb"
+			],
+			[
+				"en_us",
+				"config/locales/en_US.yml"
+			],
+			[
+				"i18",
+				"config/i18n_context.yml"
+			],
+			[
+				"en_",
+				"config/locales/en_US.yml"
+			],
+			[
+				"admin/users/sho",
+				"app/v/views/admin/users/show.rb"
+			],
+			[
+				"user.rb",
+				"app/models/user.rb"
+			],
+			[
+				"cs/user_conn",
+				"app/models/cs/user_connection.rb"
+			],
+			[
+				"cs/user.",
+				"app/models/cs/user.rb"
+			],
+			[
+				"cs/",
+				"app/models/cs/country.rb"
+			],
+			[
+				"verificatio",
+				"app/controllers/verifications_controller.rb"
+			],
+			[
+				"cs/group_m",
+				"app/models/cs/group_member.rb"
+			],
+			[
+				"cs/gro",
+				"app/models/cs/group.rb"
+			],
+			[
+				"event_att",
+				"app/models/event_attendee.rb"
+			],
+			[
+				"event_con",
+				"app/controllers/events_controller.rb"
+			],
+			[
+				"verification_con",
+				"app/controllers/verifications_controller.rb"
+			],
+			[
+				"cs/user_co",
+				"app/models/cs/user_connection.rb"
+			],
+			[
+				"physical",
+				"lib/legacy_message_api/physical_store.rb"
+			],
+			[
+				"kohana",
+				"app/controllers/kohana_redirect_controller.rb"
+			],
+			[
+				"inbox.js",
+				"app/assets/javascripts/pages/inbox.js"
+			],
+			[
+				"message_bo",
+				"lib/legacy_message_api/physical_store/message_body.rb"
+			],
+			[
+				"",
+				"Capfile"
+			],
+			[
+				"couch_reques",
+				"lib/legacy_api/couch_request.rb"
+			],
+			[
+				"user.",
+				"app/models/user.rb"
+			],
+			[
+				"i",
+				"config/i18n_context.yml"
+			],
+			[
+				"event_fo",
+				"app/assets/javascripts/old_features/event_form.js"
+			],
+			[
+				"event.js",
+				"app/assets/javascripts/features/dashboard/event.js"
+			],
+			[
+				"i18n",
+				"config/i18n-js.yml"
+			],
+			[
+				"inbox.j",
+				"app/assets/javascripts/pages/inbox.js"
+			],
+			[
+				"message.js",
+				"app/assets/javascripts/old_features/event_message.js"
+			],
+			[
+				"dashboard.js",
+				"app/assets/javascripts/pages/dashboard.js"
+			],
+			[
+				"step_bas",
+				"app/v/views/trips/step_base.rb"
+			],
+			[
+				"dashboard/ind",
+				"app/v/views/dashboard/index.rb"
+			],
+			[
+				"user_contro",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"update_set_g",
+				"lib/synchronizer/updaters/update_set_geo.rb"
+			],
+			[
+				"direct",
+				"lib/synchronizer/field_synchronizers/direct_synchronizer.rb"
+			],
+			[
+				"user_geo",
+				"lib/synchronizer/field_synchronizers/user_geo_synchronizer.rb"
+			],
+			[
+				"cs/exta",
+				"app/models/cs/external_user_account.rb"
+			],
+			[
+				"user_geo_synchronizer",
+				"lib/synchronizer/field_synchronizers/user_geo_synchronizer.rb"
+			],
+			[
+				"external",
+				"app/models/external_connection.rb"
+			],
+			[
+				"facebook_in",
+				"app/models/concerns/user/facebook_integration.rb"
+			],
+			[
+				"account",
+				"app/controllers/account_controller.rb"
+			],
+			[
+				"en_u",
+				"config/locales/en_US.yml"
+			],
+			[
+				"cs/couchrequest",
+				"app/models/cs/couch_request.rb"
+			],
+			[
+				"admin/users",
+				"app/controllers/admin/users_controller.rb"
+			],
+			[
+				"legacygeolocationmapping",
+				"app/models/legacy_geolocation_mapping.rb"
+			],
+			[
+				"geolocations/clas",
+				"lib/geolocations/classic.rb"
+			],
+			[
+				"datum",
+				"app/models/analysis/time_series_datum.rb"
+			],
+			[
+				"analytics/controller",
+				"app/controllers/admin/analytics/timeseries_controller.rb"
+			],
+			[
+				"year",
+				"app/controllers/admin/analytics/year_over_year_controller.rb"
+			],
+			[
+				"time_ser",
+				"lib/analysis/update/time_series_datum_updater.rb"
+			],
+			[
+				"timeseries",
+				"lib/analysis/update/time_series_datum_updater.rb"
+			],
+			[
+				"db_sh",
+				"lib/legacy_message_api/physical_store/db_shard.rb"
+			],
+			[
+				"user_activity.",
+				"app/models/analysis/user_activity.rb"
+			],
+			[
+				"timeseries/ch",
+				"app/v/views/admin/analytics/timeseries/chart.rb"
+			],
+			[
+				"timeseries_",
+				"app/controllers/admin/analytics/timeseries_controller.rb"
+			],
+			[
+				"analytics_co",
+				"app/controllers/admin/analytics/timeseries_controller.rb"
+			],
+			[
+				"enumeratedcolumnswithmetadata",
+				"lib/storage/enumerated_columns_with_metadata.rb"
+			],
+			[
+				"time_da",
+				"app/models/analysis/time_series_datum.rb"
+			],
+			[
+				"time_seri",
+				"lib/analysis/time_series_analytics/time_series_analytic.rb"
+			],
+			[
+				"time_serie",
+				"app/models/analysis/time_series_datum.rb"
+			],
+			[
+				"cs/couch_request",
+				"app/models/cs/couch_request.rb"
+			],
+			[
+				"couch",
+				"lib/legacy_api/couch_request.rb"
+			],
+			[
+				"timeseriesdatumupdater",
+				"lib/analysis/update/time_series_datum_updater.rb"
+			],
+			[
+				"couchrequest_sen",
+				"lib/analysis/update/couchrequest_senders_updater.rb"
+			],
+			[
+				"message_recei",
+				"lib/legacy_message_api/physical_store/message_receiver.rb"
+			],
+			[
+				"physicalstore/base",
+				"lib/legacy_message_api/physical_store/message_base.rb"
+			],
+			[
+				"messagesender",
+				"lib/legacy_message_api/physical_store/message_sender.rb"
+			],
+			[
+				"message_sen",
+				"lib/legacy_message_api/physical_store/message_sender.rb"
+			],
+			[
+				"messagerecei",
+				"lib/legacy_message_api/physical_store/message_receiver.rb"
+			],
+			[
+				"inbox/th",
+				"app/v/views/widgets/inbox/thread_list.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/sublime/csrails.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 1017.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 160.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

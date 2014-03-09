@@ -1,0 +1,63 @@
+// Place all the styles related to the game controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+@mixin clearfix {
+  *zoom: 1;
+  &:before,
+  &:after {
+    display: table;
+    content: "";
+    line-height: 0;
+  }
+  &:after {
+    clear: both;
+  }
+}
+
+.board {
+  margin-top: 30px;
+  
+  .lost_message{
+    margin: 0px auto;
+    width: 300px;
+    padding: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+  }
+
+  table {
+    margin: 0 auto;
+
+    .square{
+      width:100px;
+      height:100px;
+      cursor: pointer;
+      font-size: 65px;
+      text-align: center;
+
+      &.piece_O {
+        color: #111177;
+      }
+
+      &.piece_X {
+        color: #771111;
+      }
+
+    }
+
+    .v{
+        border-left:1px solid #000;
+        border-right:1px solid #000;
+    }
+
+    .h{
+        border-top:1px solid #000;
+        border-bottom:1px solid #000;
+    } 
+  }
+
+}
