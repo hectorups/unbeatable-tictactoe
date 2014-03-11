@@ -16,14 +16,13 @@ describe "tictactoe board" do
 
     its(:over?){ should be_true }
     its(:win?) { should be_false }
-
   end 
 
   context "horizontal win" do
     let(:board) { Board.new( [[1,1,nil],[0,0,0],[nil,nil,nil]] ) }
     subject { board }
 
-    its(:over?){ should be_true }
+    its(:over?) { should be_true }
     its(:win?) { should = 0 }
   end 
 
@@ -31,7 +30,7 @@ describe "tictactoe board" do
     let(:board) { Board.new( [[0,1,nil],[0,1,nil],[0,nil,nil]] ) }
     subject { board }
 
-    its(:over?){ should be_true }
+    its(:over?) { should be_true }
     its(:win?) { should = 0 }
   end 
 
@@ -39,7 +38,7 @@ describe "tictactoe board" do
     let(:board) { Board.new( [[1,1,0],[0,0,nil],[0,nil,nil]] ) }
     subject { board }
 
-    its(:over?){ should be_true }
+    its(:over?) { should be_true }
     its(:win?) { should = 0 }
   end 
 

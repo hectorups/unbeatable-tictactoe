@@ -5,7 +5,7 @@ class Board
   attr_accessor :data
 
   def self.start
-    return Board.new( [].tap{|c| 3.times{|i| c.push([nil,nil,nil]) } } )
+    return Board.new( [].tap{ |c| 3.times{ |i| c.push([nil, nil, nil]) } } )
   end
 
   def initialize(data)
@@ -30,7 +30,7 @@ class Board
 
   def duplicate
     dup.tap do |new_board|
-      new_board.data = @data.clone.map{|r| r.clone}
+      new_board.data = @data.clone.map{ |r| r.clone }
     end
   end
 
@@ -52,22 +52,20 @@ class Board
   private
 
   def horizontal_win?
-    @data.any?{|row|  triplete_matches(row) }
+    @data.any?{ |row| triple_match?(row) }
   end
 
   def vertical_win?
-    @data.transpose.any?{|row|  triplete_matches(row) }
+    @data.transpose.any?{ |row| triple_match?(row) }
   end
 
   def cross_win?
-
-    triplete_matches( [0,1,2].map { |column_number| @data[column_number][column_number] } ) ||
-    triplete_matches( [2,1,0].map { |column_number| @data[column_number][2 - column_number] } ) 
+    triple_match?( [0, 1, 2].map { |column_number| @data[column_number][column_number] } ) ||
+    triple_match?( [2, 1, 0].map { |column_number| @data[column_number][2 - column_number] } ) 
   end
   
-  def triplete_matches(row)
-    return true if row.all?{|i| i == X_PLAYER} ||
-                  row.all?{|i| i == O_PLAYER}
+  def triple_match?(row)
+    return true if row.all?{ |i| i == X_PLAYER } || row.all?{ |i| i == O_PLAYER }
     return false
   end
 
